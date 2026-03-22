@@ -32,9 +32,7 @@ http://my-cloud-form-website.s3-website.eu-north-1.amazonaws.com/
 * Error handling and user feedback system
 * Scalable and cost-efficient cloud deployment
 
-## 📸 Demo
 
-![Project Screenshot](screenshot.png)
 
 ## 🏗️ Architecture
 
